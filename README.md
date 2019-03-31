@@ -28,6 +28,9 @@ I used to be an Android developer, so this use case comes naturally to me. Follo
 
 All my work is in the notebook. Data folder contains two files, both of which are required by the notebook
 
+## Note: 
+Since I'm using plotly which use iframes for visualizations, you won't be able to see them in notebook on github. Please download and open the HTML file in Firefox/Chrome.
+
 ## Results<a name="results"></a>
 1. A Developer should target categories which have high demand but lack of quality apps like Entertainment and Travel
 2. Users don't usually care about app size, but lighter apps do have higher average rating. Most of the top rated apps are light.
